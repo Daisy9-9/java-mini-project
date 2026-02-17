@@ -7,5 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="lombok" level="project" />
+    <orderEntry type="library" exported="" name="text-table-formatter-1.1.2" level="project" />
+    <orderEntry type="library" name="text-table-formatter-1.1.3" level="project" />
   </component>
 </module>
