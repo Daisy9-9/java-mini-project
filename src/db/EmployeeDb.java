@@ -12,28 +12,28 @@ public class EmployeeDb {
     public EmployeeDb(){
         employeeList = new ArrayList<>(){{
             add(new Employee(
-                    "Jennie",2000.00, LocalDate.now()
+                    "Liza",2000.00, LocalDate.now()
             ));
             add(new Employee(
-                    "Mona",3000.00, LocalDate.now().minusDays(7)
+                    "Jenny",3000.00, LocalDate.now().minusDays(7)
             ));
             add(new Employee(
-                    "Pink Panther",5000.00, LocalDate.now().minusMonths(2)
+                    "Sl ke mank eg",5000.00, LocalDate.now().minusMonths(2)
             ));
             add(new Employee(
-                    "Zhang Lurang",5000.00, LocalDate.now()
+                    "Tena",5000.00, LocalDate.now()
             ));
             add(new Employee(
-                    "Sangyan",4500.00, LocalDate.now().minusDays(7)
+                    "Sok Pisey",4500.00, LocalDate.now().minusDays(7)
             ));
             add(new Employee(
-                    "Capybara",1400.00, LocalDate.now().minusMonths(2)
+                    "vann Da",1400.00, LocalDate.now().minusMonths(2)
             ));
             add(new Employee(
-                    "Su zaizai",200.00, LocalDate.now().minusDays(7)
+                    "G davith",200.00, LocalDate.now().minusDays(7)
             ));
             add(new Employee(
-                    "Jiang Jia",1400.00, LocalDate.now().minusMonths(2)
+                    "Rose",1400.00, LocalDate.now().minusMonths(2)
             ));
         }};
     }
